@@ -1,9 +1,9 @@
 title: CJ Dupre
 author:
-  name: CjDupre
+  name: CJ Dupre
   email: dupre.pdx@gmail.com
 description: > # this means to ignore newlines until "show_excerpts:"
-  Learning Jekyll
+  Following my heart
 
 show_excerpts: false # set to true to show excerpts on the homepage
 
@@ -15,8 +15,8 @@ minima:
 
   # generate social links in footer
   social_links:
-    twitter: jekyllrb
-    github: jekyll
+    # twitter: jekyllrb
+    github: CjDupre
     # devto: jekyll
     # dribbble: jekyll
     # facebook: jekyll
